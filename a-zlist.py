@@ -1,6 +1,7 @@
 import csv
 import urllib
 import os
+import codecs
 from urllib import request
 
 import tkinter
@@ -42,7 +43,7 @@ def checkISSN(vendorName, issn):
 
 def writeResults(resultString):
     resultsLog = 'Results.txt'
-    with open(resultsLog, 'a') as x:
+    with codecs.open(resultsLog, 'a', encoding='utf-8') as x:
         x.write(resultString+'\n')
 
 def readFile():
@@ -81,6 +82,7 @@ def runCheck():
 
         result = checkISSN(vendorName, issn)
         resultString = str(sys)+'\t'+str(journalTitle)+'\t'+str(issn)+'\t'+str(vendorName)+'\t'+str(baseURL)+str(issn)+'\t'+str(result)
+        # print(resultString)
         writeResults(resultString)
 
     print('...done')

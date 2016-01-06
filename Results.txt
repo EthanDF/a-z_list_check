@@ -1,180 +1,44 @@
-20001910		1439-0485	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1439-0485	True
-20002166		1337-2211	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1337-2211	True
-20002887		1755-053X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1755-053X	True
-20003147		1935-4940	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1935-4940	True
-20003242		1548-1395	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1395	True
-20003742		1548-1387	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1387	True
-20003836		1348-0421	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1348-0421	True
-20003983		1548-1433	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1433	True
-20004171		1548-1425	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1425	True
-20004288		1572-8382	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1572-8382	True
-20004308		1548-1492	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1492	True
-20004337		1090-7165	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1090-7165	True
-20004506		1937-4402	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1937-4402	True
-20004558		1468-2834	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1468-2834	True
-20004606		1464-3502	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1464-3502	True
-20004649		1548-1417	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1417	True
-20004880		1609-7513	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1609-7513	True
-20004941		1939-7445	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1939-7445	True
-20004993		1465-7260	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1465-7260	True
-20005040		1460-2059	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1460-2059	True
-20005044		1756-2171	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1756-2171	True
-20005087		1465-7279	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1465-7279	True
-20005134		1468-4357	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1468-4357	True
-20005183		1471-6771	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1471-6771	True
-20005281		1755-2567	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1755-2567	True
-20005421		1468-263X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1468-263X	True
-20005481		1471-8391	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1471-8391	True
-20005626		1548-7458	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-7458	True
-20006082		1548-1352	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1548-1352	True
-20006472		1745-9133	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1745-9133	True
-20008852		1568-5365	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1568-5365	True
-20008989		1471-2970	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1471-2970	True
-20009621		0031-8868	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0031-8868	True
-20012771		1600-0404	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1600-0404	True
-20013007		1573-7209	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1573-7209	True
-20013101		1572-994X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1572-994X	True
-20013149		1467-8519	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1467-8519	True
-20013199		0951-6433	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0951-6433	True
-20014655		1464-3545	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1464-3545	True
-20018967		1936-4156	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1936-4156	True
-20019039		1535-7716	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1535-7716	True
-20022251		2150-0517	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2150-0517	True
-20024353		1573-0875	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1573-0875	True
-20026998		1573-9228	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1573-9228	True
-20031905		1460-2180	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1460-2180	True
-20031950		1460-2199	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1460-2199	True
-20031995		1464-3553	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1464-3553	True
-20032096		1464-3588	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1464-3588	True
-20032483		1520-8532	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1520-8532	True
-20032582		1520-8540	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1520-8540	True
-20035417		1469-3534	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1469-3534	True
-20038258		1547-8424	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1547-8424	True
-20040243		1364-8152	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1364-8152	True
-20040338		1050-6411	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1050-6411	True
-20040385		0015-1882	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0015-1882	True
-20040431		0956-7135	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0956-7135	True
-20040480		1464-2867	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1464-2867	True
-20040525		1568-9883	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1568-9883	True
-20040624		1353-8292	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1353-8292	True
-20040763		0018-442X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0018-442X	True
-20040806		1475-1585	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1475-1585	True
-20040923		1618-0615	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-0615	True
-20041010		0167-7322	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0167-7322	True
-20041080		0959-1524	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0959-1524	True
-20041122		1364-0321	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1364-0321	True
-20041879		1383-5866	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1383-5866	True
-20041924		1359-4311	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1359-4311	True
-20041964		1569-190X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1569-190X	True
-20042058		1293-2558	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1293-2558	True
-20042147		0026-0576	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0026-0576	True
-20042284		1439-1791	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1439-1791	True
-20042390		0896-8446	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0896-8446	True
-20042434		1873-2909	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1873-2909	True
-20042524		1611-7530	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1611-7530	True
-20042610		1879-3223	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1879-3223	True
-20042700		0924-2244	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0924-2244	True
-20042794		1618-8667	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-8667	True
-20042890		0964-8305	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0964-8305	True
-20043225		1566-0141	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1566-0141	True
-20043319		1879-1301	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1879-1301	True
-20043367		1389-0417	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1389-0417	True
-20043413		1007-5704	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1007-5704	True
-20043459		0263-8223	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0263-8223	True
-20043555		1387-1609	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1387-1609	True
-20043603		0140-3664	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0140-3664	True
-20043654		0950-0618	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0950-0618	True
-20043697		0967-0661	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0967-0661	True
-20043746		1290-0729	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1290-0729	True
-20043891		0303-2434	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0303-2434	True
-20043939		0955-3959	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0955-3959	True
-20043990		1879-3460	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1879-3460	True
-20044079		0734-743X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0734-743X	True
-20044123		0963-8695	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0963-8695	True
-20044218		1386-5056	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1386-5056	True
-20044460		0925-2312	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0925-2312	True
-20044693		1567-1739	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1567-1739	True
-20044779		1359-0294	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1359-0294	True
-20044827		0969-8051	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0969-8051	True
-20044872		1612-0051	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1612-0051	True
-20044918		1463-5003	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1463-5003	True
-20044961		1878-1551	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1878-1551	True
-20045174		1383-5769	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1383-5769	True
-20045222		0143-7208	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0143-7208	True
-20045268		1471-0153	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1471-0153	True
-20045311		0142-9418	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0142-9418	True
-20045414		1476-945X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1476-945X	True
-20045637		1730-6337	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1730-6337	True
-20045748		0969-806X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0969-806X	True
-20045934		0042-4935	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0042-4935	True
-20046033		1469-0292	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1469-0292	True
-20046036		0042-6032	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0042-6032	True
-20046221		1618-0607	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-0607	True
-20046271		1381-5148	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1381-5148	True
-20046415		1471-0846	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1471-0846	True
-20046606		1617-1381	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1617-1381	True
-20046693		1872-8197	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1872-8197	True
-20046740		0959-6526	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0959-6526	True
-20046796		0369-8114	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0369-8114	True
-20046844		0300-9440	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0300-9440	True
-20046983		1535-6108	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1535-6108	True
-20047031		0969-2126	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0969-2126	True
-20048019		1616-1564	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1616-1564	True
-20048065		1323-5818	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1323-5818	True
-20049527		0143-974X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0143-974X	True
-20050157		1618-1476	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-1476	True
-20050205		1618-0623	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-0623	True
-20050252		0030-4026	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0030-4026	True
-20050395		1618-0437	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1618-0437	True
-20050482		1434-4610	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1434-4610	True
-20050525		1476-5616	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1476-5616	True
-20052099		1474-9726	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1474-9726	True
-20052146		1740-0929	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1740-0929	True
-20052191		1469-1809	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1469-1809	True
-20052241		1542-474X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1542-474X	True
-20052294		0219-0494	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0219-0494	True
-20052342		1600-0463	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1600-0463	True
-20052385		1540-8175	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1540-8175	True
-20052394		0951-192X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0951-192X	True
-20052433		1601-1546	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1601-1546	True
-20052479		1479-8298	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1479-8298	True
-20052524		1535-7511	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1535-7511	True
-20052566		1365-2338	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1365-2338	True
-20052613		1542-4758	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1542-4758	True
-20052659		1601-5223	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1601-5223	True
-20052703		1479-6988	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1479-6988	True
-20052749		1600-048X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1600-048X	True
-20052795		1540-8191	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1540-8191	True
-20052839		1540-8167	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1540-8167	True
-20052884		1540-8183	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1540-8183	True
-20052930		1478-5153	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1478-5153	True
-20052978		1601-6343	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1601-6343	True
-20053024		1540-8159	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1540-8159	True
-20053068		1479-8301	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1479-8301	True
-20053113		1475-1305	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1475-1305	True
-20053157		1479-828X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1479-828X	True
-20053205		1470-0328	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1470-0328	True
-20053922		0080-4614	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0080-4614	True
-20055021		1944-7450	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1944-7450	True
-20055739		1570-0682	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1570-0682	True
-20059549		1942-8510	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1942-8510	True
-20059783		1555-2160	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1555-2160	True
-20060484		1938-2863	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1938-2863	True
-20060527		1558-691X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1558-691X	True
-20060623		1467-8551	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1467-8551	True
-20060671		1360-046X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1360-046X	True
-20061578		1465-3346	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1465-3346	True
-20061828		0951-3558	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0951-3558	True
-20064480		1467-8578	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1467-8578	True
-20064680		1874-7841	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1874-7841	True
-20065970		1543-3404	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1543-3404	True
-20066718		1552-3837	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1552-3837	True
-20066739		1366-5898	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1366-5898	True
-20067414		1939-148X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1939-148X	True
-20069975		1469-3569	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1469-3569	True
-20073490		1467-8608	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1467-8608	True
-20074407		1467-8616	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1467-8616	True
-20074876		1937-433X	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1937-433X	True
-20078339		1943-5525	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1943-5525	True
-20083511		1532-7736	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1532-7736	True
-20084963		0899-3289	None	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0899-3289	True
+33605931	African journal of wildlife research$$h[electronic resource].	2410-8200	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2410-8200	False
+33491042	Arachnology	2050-9936	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2050-9936	False
+33941495	Paleontological contributions$$h[electronic resource].	1946-0279	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1946-0279	False
+33941494	Palaeodiversity$$h[electronic resource].	1867-6294	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1867-6294	False
+23345821	Applied vegetation science$$h[electronic resource].	1402-2001	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1402-2001	False
+25356520	Geodiversitas$$h[electronic resource].	1638-9395	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1638-9395	False
+29644868	Mammal study$$h[electronic resource].	1348-6160	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1348-6160	False
+25933599	Systematic and applied acarology$$h[electronic resource].	1362-1971	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1362-1971	False
+29642427	Journal of East African natural history$$h[electronic resource].	0012-8317	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0012-8317	False
+27829569	Neotropical primates$$h[electronic resource] :$$ba newsletter of the Neotropical Section of the IUCN/SSC Primate Specialist Group.	1413-4703	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1413-4703	False
+33941492	Journal of entomological science$$h[electronic resource].	0749-8004	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0749-8004	False
+25928766	Marine resource economics.	2334-5985	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2334-5985	False
+33491047	Cryptogamie.$$pMycologie$$h[electronic resource].	1776-100X	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1776-100X	False
+24903303	The Society of Wetland Scientists bulletin$$h[electronic resource].	0732-9393	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0732-9393	False
+29756162	Stuttgarter Beitr? zur Naturkunde.$$nSerie A,$$pBiologie$$h[electronic resource].	2193-5513	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2193-5513	False
+25963393	Bulletin of the Wildlife Disease Association$$h[electronic resource].	0098-373X	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0098-373X	False
+29751941	Annales zoologici Fennici$$h[electronic resource].	1797-2450	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1797-2450	False
+29751927	Annales botanici Fennici$$h[electronic resource].	1797-2442	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1797-2442	False
+25775462	Caribbean journal of science$$h[electronic resource].	0008-6452	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0008-6452	False
+33941493	Journal of the Lepidopterists' Society$$h[electronic resource].	0024-0966	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0024-0966	False
+26549021	Acta palaeontologica Polonica$$h[electronic resource].	1732-2421	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1732-2421	False
+33491043	Ardeola$$h[electronic resource].	2341-0825	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2341-0825	False
+28865099	Annals of Carnegie Museum$$h[electronic resource].	1943-6300	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1943-6300	False
+28865027	Proceedings of the Biological Society of Washington$$h[electronic resource].	1943-6327	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1943-6327	False
+20961756	Transactions of the American Entomological Society$$h[electronic resource].	2328-3815	BioOne Complete	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2328-3815	False
+
+029121601	Acadiensis: Journal of the History of the Atlantic Region / Revue d’histoire de la region atlantique	0044-5851	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0044-5851	False
+026880110	African Arts	1937-2108	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1937-2108	False
+99999999	ASAP/Journal	2381-4705	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2381-4705	False
+020638965	Early Theatre: A Journal associated with the Records of Early English Drama	1206-9078	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1206-9078	False
+022683259	Fontes Artis Musicae	0015-6191	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0015-6191	False
+026305812	Georgetown Journal of International Affairs	1526-0054	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1526-0054	False
+99999999	Hawaiian Journal of History	0440-5145	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0440-5145	False
+028248297	Huntington Library Quarterly	1544-399X	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1544-399X	False
+99999999	Journal of Animal Ethics	2156-5414	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2156-5414	False
+025538995	Journal of Southern History	2325-6893	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=2325-6893	False
+023328164	Labor: Studies in Working-Class History of the Americas	1558-1454	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1558-1454	False
+025775507	Lutheran Quarterly	0024-7499 	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0024-7499 	False
+99999999	Nova et vetera	1542-7315	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1542-7315	False
+99999999	Pleiades: Literature in Context	1063-3391	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1063-3391	False
+99999999	Studies in the Fantastic	1942-7190	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=1942-7190	False
+033481488	Style	0039-4238	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0039-4238	False
+031038375	The Thomist: A Speculative Quarterly Review 	0040-6325	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0040-6325	False
+020674194	World Policy Journal	0740-2775	MUSE	http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C=0740-2775	True
