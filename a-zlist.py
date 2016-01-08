@@ -10,7 +10,7 @@ root = tkinter.Tk()
 root.withdraw()
 
 baseURL = 'http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C='
-nothingFound = '0 RECORDS RETRIEVED FOR THE SEARCH'
+nothingFound = 'Sorry, this search returned no results'
 
 def checkISSN(vendorName, issn):
     """
@@ -29,14 +29,16 @@ def checkISSN(vendorName, issn):
     vendorFound = False
 
     if vendorName != "None":
+        # print('vendorName is not None')
         for l in httpList:
             if vendorName.upper() in l.decode().upper():
                 vendorFound = True
 
-    if vendorName == 'None':
+    if vendorName == 'None' or vendorName == '' or vendorName == 'xxxx':
+        # print('vendorName is None')
         vendorFound = True
         for l in httpList:
-            if nothingFound in l.decode().upper():
+            if nothingFound.upper() in l.decode().upper():
                 vendorFound = False
 
     return vendorFound
