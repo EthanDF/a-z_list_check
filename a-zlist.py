@@ -4,10 +4,10 @@ import os
 import codecs
 from urllib import request
 
-import tkinter
+# import tkinter
 
-root = tkinter.Tk()
-root.withdraw()
+# root = tkinter.Tk()
+# root.withdraw()
 
 baseURL = 'http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C='
 nothingFound = 'Sorry, this search returned no results'
@@ -53,13 +53,15 @@ def readFile():
     Create a csv file with:
     alephbib, title, vendor, issn, any other columns are fine but won't be read
     """
-    input('press any key to choose the input csv file...')
+    # input('press any key to choose the input csv file...')
 
     from tkinter import filedialog
-    csvPath = tkinter.filedialog.askopenfile()
-    fileName = csvPath.name
+    # csvPath = tkinter.filedialog.askopenfile()
+    # fileName = csvPath.name
 
-    print('thanks! got it!\nrunning...')
+    # print('thanks! got it!\nrunning...')
+
+    fileName = 'a-z_list_daily_check.csv'
 
 
     checkList = []
@@ -73,7 +75,7 @@ def readFile():
 def runCheck():
 
 
-    print('running check...')
+    # print('running check...')
     checkList = readFile()
 
     for title in checkList:
