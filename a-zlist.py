@@ -22,7 +22,14 @@ def checkISSN(vendorName, issn):
     # issn = '1544-0737'
     # vendorName = 'Sage'
 
-    doUrl = baseURL+issn
+    if len(issn) == 9:
+        doUrl = baseURL+issn
+    else:
+        doUrl = issn
+
+    # for debugging
+    # print(doUrl)
+
     r = urllib.request.urlopen(doUrl)
     httpList = r.readlines()
 
