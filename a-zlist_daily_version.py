@@ -23,9 +23,13 @@ def checkISSN(vendorName, issn):
     # vendorName = 'Sage'
 
     if len(issn) == 9:
-        doUrl = baseURL+issn
+        # for debugging
+        print('using ISSN, '+str(issn))
+        doUrl = baseURL+str(issn)
     else:
-        doUrl = issn
+        # for debugging
+        print('using full URL provided, '+str(issn))
+        doUrl = str(issn)
 
     r = urllib.request.urlopen(doUrl)
     httpList = r.readlines()
@@ -86,9 +90,9 @@ def runCheck():
         sys = title[0]
         journalTitle = title[1]
         vendorName = title[2]
-        issn = title[3]
+        issn = str(title[3]).rstrip()
 
-        result = checkISSN(vendorName, issn)
+        result = checkISSN(vendorName, str(issn))
         resultString = str(sys)+'\t'+str(journalTitle)+'\t'+str(issn)+'\t'+str(vendorName)+'\t'+str(baseURL)+str(issn)+'\t'+str(result)
         # print(resultString)
         writeResults(resultString)

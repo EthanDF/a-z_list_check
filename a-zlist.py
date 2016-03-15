@@ -23,9 +23,9 @@ def checkISSN(vendorName, issn):
     # vendorName = 'Sage'
 
     if len(issn) == 9:
-        doUrl = baseURL+issn
+        doUrl = baseURL+str(issn)
     else:
-        doUrl = issn
+        doUrl = str(issn)
 
     # for debugging
     # print(doUrl)
@@ -87,9 +87,9 @@ def runCheck():
         sys = title[0]
         journalTitle = title[1]
         vendorName = title[2]
-        issn = title[3]
+        issn = str(title[3]).rstrip()
 
-        result = checkISSN(vendorName, issn)
+        result = checkISSN(vendorName, str(issn))
         resultString = str(sys)+'\t'+str(journalTitle)+'\t'+str(issn)+'\t'+str(vendorName)+'\t'+str(baseURL)+str(issn)+'\t'+str(result)
         # print(resultString)
         writeResults(resultString)
