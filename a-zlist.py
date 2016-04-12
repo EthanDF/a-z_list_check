@@ -90,7 +90,22 @@ def runCheck():
         issn = str(title[3]).rstrip()
 
         result = checkISSN(vendorName, str(issn))
-        resultString = str(sys)+'\t'+str(journalTitle)+'\t'+str(issn)+'\t'+str(vendorName)+'\t'+str(baseURL)+str(issn)+'\t'+str(result)
+
+        resultURL = ''
+
+        # for printing purposes only, set the result URL. If provided an ISSN, print full URL+ISSN
+        # , otherwise, just provided URL
+
+        if len(issn) == 9:
+            # for debugging
+            # print('using ISSN, '+str(issn))
+            resultURL = baseURL + str(issn)
+        else:
+            # for debugging
+            # print('using full URL provided, '+str(issn))
+            resultURL = str(issn)
+
+        resultString = str(sys) + '\t' + str(journalTitle) + '\t' + str(vendorName) + '\t' + str(issn) + '\t' + resultURL + '\t' + str(result)
         # print(resultString)
         writeResults(resultString)
 
