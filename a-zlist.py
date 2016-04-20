@@ -2,6 +2,7 @@ import csv
 import urllib
 import os
 import codecs
+import unicodedata
 from urllib import request
 
 import tkinter
@@ -12,7 +13,7 @@ root.withdraw()
 baseURL = 'http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C='
 nothingFound = 'Sorry, this search returned no results'
 
-def checkISSN(vendorName, issn):
+def checkISSN(vendorName, issn, startDate, endDate):
     """
     if the input has None, we default to assuming we've found the file, if we return a 0 result, we'll return no results
     we check the vendor name - it must be equal to "None" (cap-sensitive) in order to trigger the no vendor check
@@ -48,7 +49,20 @@ def checkISSN(vendorName, issn):
             if nothingFound.upper() in l.decode().upper():
                 vendorFound = False
 
-    return vendorFound
+    startDatesMatch = False
+    if startDate is not None:
+        for l in httpList:
+            if startDate in l.decode():
+                startDatesMatch = True
+
+    endDatesMatch = False
+    if endDate is not None:
+        for l in httpList:
+            if endDate in l.decode():
+                endDatesMatch = True
+
+
+    return [vendorFound, startDatesMatch, endDatesMatch]
 
 def writeResults(resultString):
     resultsLog = 'Results.txt'
@@ -70,9 +84,11 @@ def readFile():
 
 
     checkList = []
-    with open(fileName, 'r') as c:
+    with open(fileName, 'r', encoding='utf-8') as c:
         reader = csv.reader(c)
         for row in reader:
+            # for debugging
+            # print(row)
             checkList.append(row)
 
     return checkList
@@ -89,7 +105,23 @@ def runCheck():
         vendorName = title[2]
         issn = str(title[3]).rstrip()
 
-        result = checkISSN(vendorName, str(issn))
+        try:
+            startdate = title[4]
+            enddate = title[5]
+        except IndexError:
+            startdate = None
+            enddate = None
+
+
+        result = checkISSN(vendorName, str(issn), startdate, enddate)
+        vendorFound = result[0]
+
+        if startdate is not None:
+            startdateFound = result[1]
+            enddateFound = result[2]
+        else:
+            startdateFound = "None"
+            enddateFound = "None"
 
         resultURL = ''
 
@@ -105,7 +137,9 @@ def runCheck():
             # print('using full URL provided, '+str(issn))
             resultURL = str(issn)
 
-        resultString = str(sys) + '\t' + str(journalTitle) + '\t' + str(vendorName) + '\t' + str(issn) + '\t' + resultURL + '\t' + str(result)
+        vendorFound = result[0]
+
+        resultString = str(sys) + '\t' + str(journalTitle) + '\t' + str(vendorName) + '\t' + str(issn) + '\t' +str(startdate)+ '\t' +str(enddate)+ '\t' + resultURL + '\t' + str(vendorFound)+ '\t' + str(startdateFound)+ '\t' + str(enddateFound)
         # print(resultString)
         writeResults(resultString)
 
