@@ -11,6 +11,7 @@ from urllib import request
 
 baseURL = 'http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C='
 nothingFound = 'Sorry, this search returned no results'
+resultsLog = 'Results.txt'
 
 def checkISSN(vendorName, issn):
     """
@@ -51,8 +52,11 @@ def checkISSN(vendorName, issn):
 
     return vendorFound
 
+def wipeResults():
+    with open(resultsLog, 'w') as x:
+        x.write('')
+
 def writeResults(resultString):
-    resultsLog = 'Results.txt'
     with codecs.open(resultsLog, 'a', encoding='utf-8') as x:
         x.write(resultString+'\n')
 
@@ -86,6 +90,8 @@ def runCheck():
     # print('running check...')
     checkList = readFile()
 
+    trueResult = False
+
     for title in checkList:
         sys = title[0]
         journalTitle = title[1]
@@ -93,6 +99,9 @@ def runCheck():
         issn = str(title[3]).rstrip()
 
         result = checkISSN(vendorName, str(issn))
+        if result is True:
+            trueResult = True
+
         resultURL = ''
 
         # for printing purposes only, set the result URL. If provided an ISSN, print full URL+ISSN
@@ -112,8 +121,15 @@ def runCheck():
         writeResults(resultString)
 
     print('...done')
-    input('press any key to launch the log file')
-    os.system("start "+'Results.txt')
+    if trueResult is False:
+        wipeIt = input('there were no "True" results... press "y" to wipe the log, otherwise, press any other key to open the log\n')
+        if wipeIt == 'y':
+            wipeResults()
+        else:
+            os.system("start " + 'Results.txt')
+    else:
+        input('There was at least 1 "True" result, press any key to launch the log file\n')
+        os.system("start "+'Results.txt')
 
 runCheck()
 
