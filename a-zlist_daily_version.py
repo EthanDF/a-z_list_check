@@ -3,6 +3,7 @@ import urllib
 import os
 import codecs
 from urllib import request
+import datetime
 
 # import tkinter
 
@@ -11,7 +12,11 @@ from urllib import request
 
 baseURL = 'http://hx8vv5bf7j.search.serialssolutions.com/?V=1.0&L=HX8VV5BF7J&S=I_M&C='
 nothingFound = 'Sorry, this search returned no results'
-resultsLog = 'Results.txt'
+fileName = 'z:\\FenichelE\\a-zList\\a-z_list_daily_check.csv'
+resultsLog = 'Z:\\FenichelE\\A-ZList\\Results.txt'
+emailFile = 'Z:\\FenichelE\\A-ZList\\emailConfig.txt'
+
+# userLogin = 'fenichele@fau.edu'
 
 def checkISSN(vendorName, issn):
     """
@@ -60,6 +65,45 @@ def writeResults(resultString):
     with codecs.open(resultsLog, 'a', encoding='utf-8') as x:
         x.write(resultString+'\n')
 
+def getEmails():
+
+    toaddr = []
+    with open(emailFile, 'r') as l:
+        for line in l:
+            toaddr.append(line.strip('\n'))
+    return toaddr
+
+
+def sendEmail(hasResults):
+    emailList = getEmails()
+
+    import smtplib
+    server = smtplib.SMTP('smtp.fau.edu')
+
+    server.ehlo()
+    # server.starttls()
+    # server.ehlo()
+
+    from email.mime.text import MIMEText
+    from email.mime.multipart import MIMEMultipart
+
+    fromaddr = "fenichele@fau.edu"
+    toaddr = emailList
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
+    msg['To'] = ", ".join(toaddr)
+    msg['Subject'] = str(datetime.date.today().isoformat()).replace('-', '')+" A-Z List Update"
+
+    body = ''
+    if hasResults is True:
+        body = "A-Z results finished today\nInput File (ISSNs) may be found at: \n" + fileName + "\n\nResults may be found at: \n"+resultsLog
+    elif hasResults is False:
+        body = "A-Z results finished today.\nInput File (ISSNs) may be found at \n" + fileName + "\n\nThere were no results.\n\nHave a great day!!!"
+    msg.attach(MIMEText(body, 'plain'))
+
+    text = msg.as_string()
+    server.sendmail(fromaddr, toaddr, msg.as_string())
+
 def readFile():
     """
     Create a csv file with:
@@ -72,8 +116,6 @@ def readFile():
     # fileName = csvPath.name
 
     # print('thanks! got it!\nrunning...')
-
-    fileName = 'a-z_list_daily_check.csv'
 
 
     checkList = []
@@ -122,14 +164,17 @@ def runCheck():
 
     print('...done')
     if trueResult is False:
-        wipeIt = input('there were no "True" results... press "y" to wipe the log, otherwise, press any other key to open the log\n')
-        if wipeIt == 'y':
-            wipeResults()
-        else:
-            os.system("start " + 'Results.txt')
+        sendEmail(trueResult)
+        wipeResults()
+        # wipeIt = input('there were no "True" results... press "y" to wipe the log, otherwise, press any other key to open the log\n')
+        # if wipeIt == 'y':
+        #     wipeResults()
+        # else:
+            # os.system("start " + 'Results.txt')
     else:
-        input('There was at least 1 "True" result, press any key to launch the log file\n')
-        os.system("start "+'Results.txt')
+        sendEmail(trueResult)
+        # input('There was at least 1 "True" result, press any key to launch the log file\n')
+        # os.system("start "+resultsLog)
 
 runCheck()
 
